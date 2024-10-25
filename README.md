@@ -1,7 +1,7 @@
 - <h2>👋 Hi, I'm Alok - Full-Stack Developer & JavaScript Enthusiast! </h2>
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Everything
-- ⚡ Fun fact: I have to think
+- ⚡ Fun fact: really need to think & write
 
 <!---
 AlokCodes07/AlokCodes07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
